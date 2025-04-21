@@ -13,7 +13,7 @@ P.s in server.js I've made the the API "multithreaded" because nodejs runs on a 
 1. Install Dependencies
    npm install (if any deprecated use --legacy-peer-deps, its not production code so it's safe to)
 
-2. .env file is already set up and the database cluster on mongo is modified so anyone can connect to it
+2. .env file is already set up and the database cluster on mongo is modified so anyone can connect to it, you have the key in the private comments in the homework assignment
 
 3. Start it
    npm start
